@@ -1,7 +1,7 @@
 # GAN-for-Radiography
 
 
-This notebook implements a Generative Adversarial Network (GAN) using TensorFlow to generate synthetic COVID-19 radiography images. The implementation is based on the COVID-19 Radiography Database from Kaggle.
+This notebook implements a GAN model using TensorFlow to generate synthetic COVID-19 radiography images. The implementation is based on the COVID-19 Radiography Database from Kaggle.
 
 
 ## Resources
